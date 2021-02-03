@@ -5,7 +5,7 @@ import logo from './lo.png';
 function Abonnement() {
     return (
             <div class="Abonnement">
-                <img src={logo} />
+                <img src={logo} className="imgAb"/>
                 <div class="btn">
                     <button>COURS DE TENNIS POUR JEUNES</button>
                     <button>ECOLE DE TENNIS DES JEUNES</button>

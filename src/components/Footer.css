@@ -1,0 +1,13 @@
+p
+{
+    line-height: 2em;
+    margin-top: 1vh;
+    color: white;
+    white-space: pre-wrap;
+}
+.footer 
+{
+    width: 100vw;
+    background-color: black;
+    bottom: 0;
+}

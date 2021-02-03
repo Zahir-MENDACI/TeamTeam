@@ -1,0 +1,42 @@
+#myCarousel{
+    height: 90vh;
+}
+
+.carousel-item img{
+    height: 90vh;
+}
+
+.fill {
+    object-fit: fill;
+}
+
+.App
+{
+    background-image: url(./photo.jpg);
+    text-align: center;
+    height: 100vh;
+}
+
+img
+{
+    width: 100vw;
+}
+.btndiv
+{
+    display: inline-block;
+    margin-top: 50vh;
+}
+.button
+{
+    margin: 10vh 50px;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    width: 13vw;
+    height: 7vh;
+    border: none;
+}
+.button:hover 
+{
+    background-color: black;
+    color: white;
+}
